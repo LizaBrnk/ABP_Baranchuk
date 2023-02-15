@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b6c95b9-ddff-4aa1-addd-521b1a5f8ca1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/Lab_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/src/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/src/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/src/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/src/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_1/src/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/Lab_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/Main.java" afterDir="false" />
+    <list default="true" id="1b6c95b9-ddff-4aa1-addd-521b1a5f8ca1" name="Changes" comment="main class">
+      <change afterPath="$PROJECT_DIR$/Lab_2/src/Vector1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_4/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +49,14 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ABP_Baranchuk" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vector1" />
+      <module name="Lab_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,11 +83,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675871297052</updated>
-      <workItem from="1675871298627" duration="19870000" />
+      <workItem from="1675871298627" duration="22539000" />
+      <workItem from="1676455764732" duration="4450000" />
     </task>
+    <task id="LOCAL-00001" summary="main class">
+      <created>1676376841364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676376841364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="main class" />
   </component>
 </project>
