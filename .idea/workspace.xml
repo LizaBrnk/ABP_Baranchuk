@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6c95b9-ddff-4aa1-addd-521b1a5f8ca1" name="Changes" comment="main class">
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/Vector1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_6/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_2/src/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/src/Vector1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/Temp1_AOP 1вар.zip/AOP/lab3/src/mypackage/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Vector1" />
       <module name="Lab_2" />
@@ -84,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675871297052</updated>
       <workItem from="1675871298627" duration="22539000" />
-      <workItem from="1676455764732" duration="4450000" />
+      <workItem from="1676455764732" duration="12037000" />
     </task>
     <task id="LOCAL-00001" summary="main class">
       <created>1676376841364</created>
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676376841364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main class">
+      <created>1676496608155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676496608155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
