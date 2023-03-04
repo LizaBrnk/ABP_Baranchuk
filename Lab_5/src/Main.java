@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+class Registration {
+    public static void main(String[] args) throws Exception{
+        GUI g = new GUI();
     }
 }
