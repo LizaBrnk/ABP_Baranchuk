@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6c95b9-ddff-4aa1-addd-521b1a5f8ca1" name="Changes" comment="main class">
-      <change afterPath="$PROJECT_DIR$/Lab_3/Lab_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_4/Lab_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_5/Lab_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_5/src/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_6/Lab_6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_6/src/DrawGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/Lab_7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_7/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/Lab_8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_4/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_5/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_7/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_7/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +86,7 @@
       <updated>1675871297052</updated>
       <workItem from="1675871298627" duration="22539000" />
       <workItem from="1676455764732" duration="12037000" />
-      <workItem from="1677013979912" duration="11736000" />
+      <workItem from="1677013979912" duration="18937000" />
     </task>
     <task id="LOCAL-00001" summary="main class">
       <created>1676376841364</created>
@@ -111,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676496608155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="main class">
+      <created>1677945119050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677945119050</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
