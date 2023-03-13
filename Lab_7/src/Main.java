@@ -79,7 +79,8 @@ class MyFrame extends JFrame implements ActionListener {
         try {
             b1 = Double.parseDouble(b1TextField.getText());
             b1 = b1 < 0 ? b1 * (-1) : b1;
-        } catch (NumberFormatException ex) {
+        }
+        catch (NumberFormatException ex) {
             tag = false;
             b1 = 0;
             b1TextField.setBorder(new BasicBorders.FieldBorder(Color.red, Color.red, Color.red, Color.red));
@@ -87,7 +88,8 @@ class MyFrame extends JFrame implements ActionListener {
         try {
             b2 = Double.parseDouble(b2TextField.getText());
             b2 = b2 < 0 ? b2 * (-1) : b2;
-        } catch (NumberFormatException ex) {
+        }
+        catch (NumberFormatException ex) {
             tag = false;
             b2 = 0;
             b2TextField.setBorder(new BasicBorders.FieldBorder(Color.red, Color.red, Color.red, Color.red));
@@ -95,7 +97,8 @@ class MyFrame extends JFrame implements ActionListener {
         try {
             b3 = Double.parseDouble(b3TextField.getText());
             b3 = b3 < 0 ? b3 * (-1) : b3;
-        } catch (NumberFormatException ex) {
+        }
+        catch (NumberFormatException ex) {
             tag = false;
             b3 = 0;
             b3TextField.setBorder(new BasicBorders.FieldBorder(Color.red, Color.red, Color.red, Color.red));
@@ -144,16 +147,13 @@ class ResultFrame extends JFrame {
 
         setVisible(true);
     }
-
     public void setS(String text) {
         s.setText(s.getText() + text);
     }
-
     public void setP(String text) {
         p.setText(p.getText() + text);
     }
 }
-
 
 class Draw {
     public static void main(String[] args ) throws Exception {
