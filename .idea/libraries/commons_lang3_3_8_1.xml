@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.8.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lab_9/libs/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lab_9/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lab_9/libs/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lab_9/libs/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lab_9/libs/ucanaccess-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
